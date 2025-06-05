@@ -1,5 +1,5 @@
 {
-  "Filename": "LuxsHere.js",
+  "Filename": "yandex.js",
   "Access": [
     "6283878756870"
   ],
